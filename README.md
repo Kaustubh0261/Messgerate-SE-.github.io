@@ -1,4 +1,4 @@
-# pyDewesoft module
+# clone pyDewesoft module
 
 Python module to work with Dewesoft files. 
 
